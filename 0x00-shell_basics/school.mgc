@@ -1,3 +1,1 @@
-0 string SCHOOL School data file
-file -C -m school.magic school.magic
-file -m school.magic filename
+0   string  SCHOOL  School data file
