@@ -1,5 +1,5 @@
 file { '/temp/school':
-    ensure => present,
+    ensure => 'filr',
     mode => '0744'
     owner => 'www-data'
     group => 'www-data'
